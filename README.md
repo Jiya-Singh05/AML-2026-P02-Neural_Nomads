@@ -39,7 +39,7 @@ The project involves data exploration, preprocessing, feature engineering, machi
 | Jiya | 590025179 | `@Jiya-Singh05` |
 | Kunjum | 590928842 | `@k-codez05` |
 | Priyanshi | 590027752 | `@priyanshiisaini` |
-| Sartaj | 590029227 | `Sartaj-24` |
+| Sartaj | 590029227 | `@Sartaj-24` |
 | Ved | 590027652 | `@vedmahajan-code` |
 | Yuv | 590024199 | `@Yuv-Prabhakar07` |
 
