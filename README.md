@@ -34,7 +34,7 @@ The project involves data exploration, preprocessing, feature engineering, machi
 
 | Name | Enrollment Number | GitHub Username |
 |------|------------------|-----------------|
-| Aditya | 590021724 | `Aditya-Raj3Singh` |
+| Aditya | 590021724 | `@Aditya-Raj3Singh` |
 | Divay | 590027817 | `@sachdevadivay` |
 | Jiya | 590025179 | `@Jiya-Singh05` |
 | Kunjum | 590928842 | `@k-codez05` |
