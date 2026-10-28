@@ -1,5 +1,5 @@
 # AIMLGroup_Project_Sem_3
-# 🌍 P02 - Next-Day Air Quality Prediction
+#  P02 - Next-Day Air Quality Prediction
 
 ## 👥 Team Neural Nomads
 
@@ -8,20 +8,19 @@
 
 ---
 
-## 📌 About the Project
+##  About the Project
 
 Air pollution can seriously affect public health. Knowing the air quality one day in advance can help authorities take preventive measures.
 
 The goal of this project is to use **historical pollution data and calendar information** to predict:
 
-- 📈 **Next-day PM2.5 concentration** - Regression
-- 🏷️ **Next-day AQI category** - Classification
+-  **Next-day PM2.5 concentration** - Regression
+-  **Next-day AQI category** - Classification
 
 The project involves data exploration, preprocessing, feature engineering, machine learning model training, evaluation, and comparison of different models.
 
 ---
-
-## 🎯 Objectives
+##  Objectives
 
 - Explore historical air-quality data using EDA.
 - Identify and handle missing values.
@@ -36,7 +35,7 @@ The project involves data exploration, preprocessing, feature engineering, machi
 
 ---
 
-## 👨‍💻 Team Members
+##  Team Members
 
 | Name | Enrollment Number | GitHub Username |
 |------|------------------|-----------------|
@@ -51,7 +50,7 @@ The project involves data exploration, preprocessing, feature engineering, machi
 
 ---
 
-## 🤖 AI & Tools Used
+##  AI & Tools Used
 
 The following AI tools and development resources were used during the project:
 
