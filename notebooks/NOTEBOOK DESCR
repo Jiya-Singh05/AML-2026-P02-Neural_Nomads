@@ -1,0 +1,23 @@
+#01-eda.ipynb – Exploratory Data Analysis
+This notebook performs the initial exploratory data analysis of the Air Quality Data in India dataset, focusing on Delhi.
+The notebook covers the following tasks:
+1)Dataset Loading and Inspection: Loads the original city_day.csv dataset and examines its dimensions, columns, data types, date range and available cities.
+2)Data Quality Checks: Identifies invalid dates, missing city names and duplicate city-date records.
+3)City Selection: Filters the dataset to focus on Delhi for the project.
+4)Calendar Reindexing: Creates a continuous daily date index to identify missing calendar dates and ensure that future time-series features represent actual calendar days.
+5)Missing-Value Analysis: Calculates missing-value counts and percentages for individual columns across different years.
+6)Data Visualization: Generates a missingness heatmap, a daily PM2.5 time-series plot and a monthly PM2.5 distribution plot to explore pollution patterns.
+7)Statistical Analysis: Examines descriptive statistics and the availability of PM2.5 measurements.
+8)Missing-Data Policy: Establishes an initial strategy for handling missing target values, imputing predictors and preventing data leakage during preprocessing.
+
+#Outputs generated:
+
+1)missingness_by_year.csv
+2)missingness_observed_rows.csv
+3)delhi_daily_reindexed.csv
+4)eda_summary.csv
+5)missing_data_policy.md
+6)phase_a_report_template.md
+7)Visualizations stored in results/figures/
+
+Objective: Understand the dataset's structure, identify missing-data problems, investigate historical PM2.5 patterns and prepare a reliable foundation for the next-day air-quality prediction models.
