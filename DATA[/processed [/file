@@ -1,1 +1,21 @@
+Processed Data
+This directory contains the processed dataset generated during **Phase A (Exploratory Data Analysis)** of the P02: Next-Day Air Quality Prediction project.
+The original air-quality dataset was filtered to retain observations for Delhi. The date column was converted into a proper datetime format, and the data was reindexed to a continuous daily calendar to identify missing dates and maintain chronological consistency.
 
+#Files
+ `delhi_daily_reindexed.csv` : Delhi-specific air-quality dataset reindexed to a continuous daily date range. Missing calendar dates are retained as rows with missing values rather than being artificially filled. 
+
+# Processing Performed
+
+* Filtered the original dataset to include Delhi observations.
+* Converted date values into a consistent datetime format.
+* Sorted records chronologically.
+* Created a continuous daily date index.
+* Identified missing calendar dates.
+* Preserved missing values without applying premature imputation.
+
+# Important Notes
+* The original dataset in `data/raw/` remains unchanged.
+* Missing values are intentionally preserved for further analysis and preprocessing.
+* No target-based imputation or model-specific feature engineering has been performed at this stage.
+* This dataset serves as the input for subsequent preprocessing and feature-engineering phases.
