@@ -1,0 +1,11 @@
+Measure,Value
+Selected city,Delhi
+First calendar date,2015-01-01
+Last calendar date,2020-07-01
+Calendar days,2009
+Observed city-date rows,2009
+Missing calendar dates before reindexing,0
+Available PM2.5 observations,2007
+Missing PM2.5 values after reindexing,2
+PM2.5 missing percentage,0.1
+Years covered,"2015, 2016, 2017, 2018, 2019, 2020"

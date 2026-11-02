@@ -1,0 +1,15 @@
+City,Column,Total observed rows,Missing rows,Missing percentage
+Delhi,PM2.5,2009,2,0.1
+Delhi,PM10,2009,77,3.83
+Delhi,NO,2009,2,0.1
+Delhi,NO2,2009,2,0.1
+Delhi,NOx,2009,0,0.0
+Delhi,NH3,2009,9,0.45
+Delhi,CO,2009,0,0.0
+Delhi,SO2,2009,110,5.48
+Delhi,O3,2009,84,4.18
+Delhi,Benzene,2009,0,0.0
+Delhi,Toluene,2009,0,0.0
+Delhi,Xylene,2009,781,38.88
+Delhi,AQI,2009,10,0.5
+Delhi,AQI_Bucket,2009,10,0.5
