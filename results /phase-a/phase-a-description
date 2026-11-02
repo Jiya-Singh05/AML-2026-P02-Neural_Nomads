@@ -1,0 +1,25 @@
+Phase A: Exploratory Data Analysis Results
+
+This directory contains the quantitative outputs generated during Phase A of the P02: Next-Day Air Quality Prediction project.
+
+The results summarize the data quality, missing-value distribution, and descriptive statistics of the selected Delhi air-quality dataset. These outputs help establish the dataset's condition and guide preprocessing decisions for subsequent modelling phases.
+
+Files
+File	Description
+missingness_by_year.csv	Year-wise missing-value statistics for pollutant columns after reindexing the dataset to a continuous daily calendar.
+missingness_observed_rows.csv	Missing-value statistics calculated using only the originally observed records, before calendar reindexing.
+eda_summary.csv	Descriptive statistics and key summary information obtained during exploratory data analysis.
+Purpose
+
+These files provide quantitative evidence for:
+
+Understanding missing-value patterns across different years.
+Identifying data-quality issues in the selected dataset.
+Comparing missingness in observed records with missingness after calendar reindexing.
+Supporting the development of a suitable missing-data handling policy.
+Establishing a foundation for the preprocessing and modelling stages.
+Phase Status
+
+Phase A: Exploratory Data Analysis
+
+These are descriptive and data-quality outputs. They are not model-performance metrics. Regression and classification evaluation metrics will be generated in the later modelling and evaluation phases.
