@@ -3,7 +3,7 @@
 ## 👥 Team Neural Nomads
 
 **Course:** Applied Machine Learning (CSAI2017P)  
-**Project Theme:** P02 - Air Quality Prediction 
+**Project Theme:** P02 - Air Quality Prediction
 
 
 ##  About the Project
